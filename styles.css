@@ -9,19 +9,30 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  /* background: #bae6fd; */
+  background: #38bdf8;
   /* background: rgb(117, 0, 251);
   background: linear-gradient(
     176deg,
     rgba(117, 0, 251, 1) 0%,
     rgba(0, 0, 0, 1) 100%
   ); */
-  background: rgb(0, 93, 167);
+  /* background: rgb(0, 93, 167);
   background: linear-gradient(
     176deg,
     rgba(0, 93, 167, 1) 0%,
     rgba(0, 0, 0, 1) 100%
-  );
+  ); */
+  /* background: rgb(93, 0, 135);
+  background: linear-gradient(
+    176deg,
+    rgba(93, 0, 135, 1) 0%,
+    rgba(109, 62, 198, 1) 47%,
+    rgba(86, 240, 241, 1) 100%
+  ); */
+}
+.wrapper {
+  border: 2px solid black;
+  padding: 5rem;
 }
 
 .container {
